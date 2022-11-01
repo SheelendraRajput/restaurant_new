@@ -42,7 +42,7 @@
 <div class="col-lg-3 col-sm-6 col-md-6" data-cue="slideInUp">
 <div class="single-discover-card">
 <img src="assets/images/discover/discover-1.webp" alt="images">
-<h3>Fresh Products</h3>
+<h3>Fresh Products sumit shivhare add</h3>
 <p>There are many variations of passages of ailable but the majority have saite.</p>
 <a href="#" class="discover-more">Discover More</a>
 </div>
