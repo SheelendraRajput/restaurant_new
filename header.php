@@ -84,9 +84,9 @@
                             <li class="nav-item nav-item-five">
                                 <a href="#" class="nav-link dropdown-toggle">
                                     Pages
-                                    <i class='bx bx-plus'></i>
+                                    <!-- <i class='bx bx-plus'></i> -->
                                 </a>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="about.html" class="nav-link">About Us</a>
                                     </li>
@@ -149,28 +149,28 @@
                                     <li class="nav-item">
                                         <a href="coming-soon.html" class="nav-link bg-border-2">Coming Soon</a>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">
                                     Menu
-                                    <i class='bx bx-plus'></i>
+                                    <!-- <i class='bx bx-plus'></i> -->
                                 </a>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="menu.html" class="nav-link">Menu</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="menu-details.html" class="nav-link">Menu Details</a>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="nav-item nav-item-five">
                                 <a href="#" class="nav-link dropdown-toggle">
                                     Shop
-                                    <i class='bx bx-plus'></i>
+                                    <!-- <i class='bx bx-plus'></i> -->
                                 </a>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="shop.html" class="nav-link">Shop</a>
                                     </li>
@@ -183,28 +183,28 @@
                                     <li class="nav-item">
                                         <a href="checkout.html" class="nav-link">Checkout</a>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="nav-item nav-item-five">
                                 <a href="#" class="nav-link dropdown-toggle">
                                     Blog
-                                    <i class='bx bx-plus'></i>
+                                    <!-- <i class='bx bx-plus'></i> -->
                                 </a>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="blog.html" class="nav-link bg-border-top">Blog</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="blog-details.html" class="nav-link bg-border-2">Blog Details</a>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="nav-item">
                                 <a href="contact.html" class="nav-link">Contact Us</a>
                             </li>
                         </ul>
                         <div class="others-option-vg d-flex align-items-center">
-                            <div class="option-item">
+                            <!-- <div class="option-item">
                                 <i class='bx bx-search search-btn'></i>
                                 <i class='bx bx-x close-btn'></i>
                                 <div class="search-overlay search-popup">
@@ -217,8 +217,8 @@
                                         </form>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="option-item">
+                            </div> -->
+                            <!-- <div class="option-item">
                                 <div class="shapping-bag">
                                     <a href="cart.html">
                                         <img src="assets/images/shopping-bag-icon.svg" alt="images">
@@ -227,7 +227,7 @@
                                         01
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="option-item">
                                 <a href="booking-table.html" class="default-btn">Book A Table</a>
                             </div>
@@ -248,7 +248,7 @@
                 <div class="container">
                     <div class="option-inner">
                         <div class="others-option justify-content-center d-flex align-items-center">
-                            <div class="option-item">
+                            <!-- <div class="option-item">
                                 <i class='bx bx-search search-btn'></i>
                                 <i class='bx bx-x close-btn'></i>
                                 <div class="search-overlay search-popup">
@@ -261,8 +261,8 @@
                                         </form>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="option-item">
+                            </div> -->
+                            <!-- <div class="option-item">
                                 <div class="shapping-bag">
                                     <a href="cart.html">
                                         <img src="assets/images/shopping-bag-icon.svg" alt="images">
@@ -271,7 +271,7 @@
                                         01
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="option-item">
                                 <a href="booking-table.html" class="default-btn">Book A Table</a>
                             </div>
