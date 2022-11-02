@@ -29,17 +29,17 @@
         <div class="loader">
             <div class="loader-outter"></div>
             <div class="loader-inner"></div>
-            <span>Ruzo</span>
+            <span>Sunflower Restaurant</span>
         </div>
     </div>
 
 
-    <div class="switch-theme-mode">
+    <!-- <div class="switch-theme-mode">
         <label id="switch" class="switch">
             <input type="checkbox" onchange="toggleTheme()" id="slider">
             <span class="slider round"></span>
         </label>
-    </div>
+    </div> -->
 
 
     <div class="navbar-area">
@@ -65,13 +65,13 @@
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto">
                             <li class="nav-item nav-item-five">
-                                <a href="#" class="nav-link dropdown-toggle active">
+                                <a href="index.php" class="nav-link dropdown-toggle active">
                                     Home
-                                    <i class='bx bx-plus'></i>
+                                    <!-- <i class='bx bx-plus'></i> -->
                                 </a>
-                                <ul class="dropdown-menu">
+                                <!-- <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="index.html" class="nav-link">Home One</a>
+                                        <a href="index.php" class="nav-link">Home One</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="index-2.html" class="nav-link active">Home Two</a>
@@ -79,7 +79,7 @@
                                     <li class="nav-item">
                                         <a href="index-3.html" class="nav-link">Home Three</a>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </li>
                             <li class="nav-item nav-item-five">
                                 <a href="#" class="nav-link dropdown-toggle">
